@@ -1,4 +1,4 @@
-# Welcome to your Soumya's project
+# Welcome to Soumya's project
 
 ## Project info
 
