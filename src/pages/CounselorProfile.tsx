@@ -83,7 +83,7 @@ const CounselorProfile = () => {
       ]
     },
     "2": {
-      name: "Dr. Preksha Thakkar",
+      name: "Dr. Ayushi Sapariya",
       title: "Licensed Clinical Psychologist",
       specialization: "Academic Counseling & Student Wellness",
       experience: "8 years",
@@ -100,7 +100,7 @@ const CounselorProfile = () => {
         "Certified Academic Counselor (IACC)",
         "Trauma-Informed Care Specialist"
       ],
-      bio: "Dr. Preksha Thakkar is a dedicated clinical psychologist with over 8 years of experience in student counseling and academic support. He specializes in helping students overcome academic challenges, manage stress, and develop healthy coping mechanisms. His approach combines cognitive-behavioral therapy with mindfulness techniques tailored specifically for the academic environment.",
+      bio: "Dr. Ayushi Sapariya is a dedicated clinical psychologist with over 8 years of experience in student counseling and academic support. He specializes in helping students overcome academic challenges, manage stress, and develop healthy coping mechanisms. His approach combines cognitive-behavioral therapy with mindfulness techniques tailored specifically for the academic environment.",
       expertise: [
         "Academic Performance Enhancement",
         "Stress & Anxiety Management", 
