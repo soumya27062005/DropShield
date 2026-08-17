@@ -63,7 +63,7 @@ const ScheduleSession = () => {
     },
     {
       id: "2", 
-      name: "Ms. Preksha Thakkar",
+      name: "Ms. Ayushi Sapariya",
       specialization: "Career Guidance",
       experience: "6 years",
       rating: 4.9,
